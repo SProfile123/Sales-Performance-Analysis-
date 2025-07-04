@@ -32,11 +32,3 @@ Key modeling techniques included:
 The full notebook is available in `notebooks/statistical_modeling.ipynb`.
 
 ---
-
-## 🚀 How to Use This Project
-
-1. **Clone this repository** to your machine:
-   ```bash
-   git clone https://github.com/yourusername/Sales-Performance-Analysis.git
-
-
